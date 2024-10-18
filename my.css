@@ -1,0 +1,102 @@
+body{
+    margin:auto
+;
+background-color: rgb(250, 248, 246);
+}
+.fb{
+    text-align: center;
+    font: bold;
+    font-size: larger;
+    color: rgba(86, 84, 231, 0.849);
+    font-weight: 9000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.fbb{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+.container{
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    width: 20%;
+    padding-bottom: 5%;
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+    background-size: cover;
+    box-shadow: 0px 2px 0px 2px #dfdddd; 
+}
+.log{
+    max-width: ;
+    text-decoration: none;
+    text-transform: none;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blue;
+    color: aliceblue;
+    padding-inline: 0px;
+    text-align: center;
+    border-radius: 17%;
+    cursor: pointer;
+    border: none;
+}
+.acc{
+    max-width: ;
+    text-decoration: none;
+    text-transform: none;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(12, 202, 69);
+    color: aliceblue;
+    padding-inline: 0px;
+    text-align: center;
+    border-radius: 7px;
+    width: 60%;
+    height: 30px;
+    font-weight: 200;
+    color: aliceblue;
+    border :none;
+  
+}
+.loginbtn{
+    height: 35px;
+    width: 100%;
+  font-weight: 200;
+  background-color: blue;
+  color: aliceblue;
+  border-color:white;
+  border-radius: 7px;
+
+}
+.forgotten{
+    font-size: small;
+    text-decoration: none;
+    color: rgb(16, 19, 185);
+    text-align: left;
+}
+
+.container input{
+    width: 100%;
+    padding: 2px 0px;
+    height: 30px;
+    border: 1px solid #d4d0d0;
+    border-radius: 5px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
